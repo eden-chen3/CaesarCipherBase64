@@ -1,0 +1,17 @@
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.exe
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.deps.json
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.runtimeconfig.json
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.pdb
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.AssemblyInfoInputs.cache
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.AssemblyInfo.cs
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.csproj.CoreCompileInputs.cache
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCi.47379FAD.Up2Date
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\refint\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.pdb
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\CaesarCipherBase64.genruntimeconfig.cache
+D:\project\CaesarCipherBase64\obj\Release\net8.0-windows10.0.19041.0\ref\CaesarCipherBase64.dll

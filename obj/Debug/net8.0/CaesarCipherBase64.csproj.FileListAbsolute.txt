@@ -1,0 +1,14 @@
+D:\project\CaesarCipherBase64\bin\Debug\net8.0\CaesarCipherBase64.exe
+D:\project\CaesarCipherBase64\bin\Debug\net8.0\CaesarCipherBase64.deps.json
+D:\project\CaesarCipherBase64\bin\Debug\net8.0\CaesarCipherBase64.runtimeconfig.json
+D:\project\CaesarCipherBase64\bin\Debug\net8.0\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\bin\Debug\net8.0\CaesarCipherBase64.pdb
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.AssemblyInfoInputs.cache
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.AssemblyInfo.cs
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.csproj.CoreCompileInputs.cache
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\refint\CaesarCipherBase64.dll
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.pdb
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\CaesarCipherBase64.genruntimeconfig.cache
+D:\project\CaesarCipherBase64\obj\Debug\net8.0\ref\CaesarCipherBase64.dll

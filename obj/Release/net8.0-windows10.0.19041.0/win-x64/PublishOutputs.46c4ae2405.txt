@@ -1,0 +1,2 @@
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\publish\win-x64\CaesarCipherBase64.pdb
+D:\project\CaesarCipherBase64\bin\Release\net8.0-windows10.0.19041.0\publish\win-x64\CaesarCipherBase64.exe
